@@ -13,3 +13,5 @@
 9. git reset --hard 版本号 (回到曾经的版本)
 10. git reflog (查看历史日志,可获取版本号)
 11. git clone (后接https地址,可以克隆仓库)
+12. git push (上传至线上仓库)
+13. git pull (从线上仓库同步)
